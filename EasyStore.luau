@@ -2,7 +2,7 @@
 local EasyStore = {}
 
 --// SERVICES
-local DataStoreService = game:Get service("DataStoreService")
+local DataStoreService = game:GetService("DataStoreService")
 
 --// AUTOSAVE
 local DoAutoSave = true
