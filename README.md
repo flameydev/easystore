@@ -1,4 +1,4 @@
-<p align center
+<p align="center">
   <img src="easystore_banner.png" witdh = 100%>
 </p>
 
